@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://video-slots-machine.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">832306586716</string>
+  <string name="google_storage_bucket" translatable="false">video-slots-machine.appspot.com</string>
+  <string name="project_id" translatable="false">video-slots-machine</string>
+  <string name="google_api_key" translatable="false">AIzaSyCrm-MdDpNtDhE3iYb3sGi2mx4NshqqnFI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCrm-MdDpNtDhE3iYb3sGi2mx4NshqqnFI</string>
+  <string name="google_app_id" translatable="false">1:832306586716:android:2ad137533d03b36b0eb299</string>
+  <string name="default_web_client_id" translatable="false">832306586716-8h6a6d69ic0l7h0qevohr176lpdd8vd7.apps.googleusercontent.com</string>
+</resources>

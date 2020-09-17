@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 0007a29f193890d4b9edffc1f2183341
+timeCreated: 1525948970
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: a1_1
+    100002: a1_2
+    100004: biped
+    100006: biped Head
+    100008: biped L Calf
+    100010: biped L Forearm
+    100012: biped L Hand
+    100014: biped R Calf
+    100016: biped R Foot
+    100018: biped R Hand
+    100020: biped Spine1
+    100022: biped_bone04
+    100024: biped_bone08
+    100026: biped_bone09
+    100028: biped_bone105
+    100030: biped_bone109
+    100032: biped_bone11
+    100034: biped_bone111
+    100036: biped_bone113
+    100038: biped_bone115
+    100040: biped_bone117
+    100042: biped_bone119
+    100044: biped_bone12
+    100046: biped_bone121
+    100048: biped_bone125
+    100050: biped_bone126
+    100052: biped_bone128
+    100054: biped_bone130
+    100056: biped_bone132
+    100058: biped_bone134
+    100060: biped_bone136
+    100062: biped_bone138
+    100064: biped_bone14
+    100066: biped_bone140
+    100068: biped_bone144
+    100070: biped_bone146
+    100072: biped_bone147
+    100074: biped_bone148
+    100076: biped_bone149
+    100078: biped_bone15
+    100080: biped_bone151
+    100082: biped_bone152
+    100084: biped_bone153
+    100086: biped_bone155
+    100088: biped_bone156
+    100090: biped_bone157
+    100092: biped_bone159
+    100094: biped_bone160
+    100096: biped_bone161
+    100098: biped_bone162
+    100100: biped_bone163
+    100102: biped_bone164
+    100104: biped_bone165
+    100106: biped_bone166
+    100108: biped_bone168
+    100110: biped_bone169
+    100112: biped_bone17
+    100114: biped_bone170
+    100116: biped_bone171
+    100118: biped_bone172
+    100120: biped_bone173
+    100122: biped_bone174
+    100124: biped_bone177
+    100126: biped_bone178
+    100128: biped_bone179
+    100130: biped_bone18
+    100132: biped_bone181
+    100134: biped_bone182
+    100136: biped_bone183
+    100138: biped_bone185
+    100140: biped_bone187
+    100142: biped_bone189
+    100144: biped_bone191
+    100146: biped_bone193
+    100148: biped_bone195
+    100150: biped_bone196
+    100152: biped_bone197
+    100154: biped_bone20
+    100156: biped_bone21
+    100158: biped_bone23
+    100160: biped_bone24
+    100162: biped_bone27
+    100164: biped_bone28
+    100166: biped_bone30
+    100168: biped_bone31
+    100170: biped_bone33
+    100172: biped_bone34
+    100174: biped_bone36
+    100176: biped_bone37
+    100178: biped_bone39
+    100180: biped_bone40
+    100182: biped_bone47
+    100184: biped_bone51
+    100186: biped_bone53
+    100188: biped_bone55
+    100190: biped_bone56
+    100192: biped_bone58
+    100194: biped_bone59
+    100196: biped_bone61
+    100198: biped_bone62
+    100200: biped_bone64
+    100202: biped_bone65
+    100204: biped_bone67
+    100206: biped_bone68
+    100208: biped_bone70
+    100210: biped_bone71
+    100212: biped_bone73
+    100214: biped_bone74
+    100216: biped_bone75
+    100218: biped_bone77
+    100220: biped_bone78
+    100222: biped_bone80
+    100224: biped_bone81
+    100226: biped_bone83
+    100228: biped_bone84
+    100230: biped_bone86
+    100232: biped_bone87
+    100234: biped_bone89
+    100236: biped_bone90
+    100238: //RootNode
+    400000: a1_1
+    400002: a1_2
+    400004: biped
+    400006: biped Head
+    400008: biped L Calf
+    400010: biped L Forearm
+    400012: biped L Hand
+    400014: biped R Calf
+    400016: biped R Foot
+    400018: biped R Hand
+    400020: biped Spine1
+    400022: biped_bone04
+    400024: biped_bone08
+    400026: biped_bone09
+    400028: biped_bone105
+    400030: biped_bone109
+    400032: biped_bone11
+    400034: biped_bone111
+    400036: biped_bone113
+    400038: biped_bone115
+    400040: biped_bone117
+    400042: biped_bone119
+    400044: biped_bone12
+    400046: biped_bone121
+    400048: biped_bone125
+    400050: biped_bone126
+    400052: biped_bone128
+    400054: biped_bone130
+    400056: biped_bone132
+    400058: biped_bone134
+    400060: biped_bone136
+    400062: biped_bone138
+    400064: biped_bone14
+    400066: biped_bone140
+    400068: biped_bone144
+    400070: biped_bone146
+    400072: biped_bone147
+    400074: biped_bone148
+    400076: biped_bone149
+    400078: biped_bone15
+    400080: biped_bone151
+    400082: biped_bone152
+    400084: biped_bone153
+    400086: biped_bone155
+    400088: biped_bone156
+    400090: biped_bone157
+    400092: biped_bone159
+    400094: biped_bone160
+    400096: biped_bone161
+    400098: biped_bone162
+    400100: biped_bone163
+    400102: biped_bone164
+    400104: biped_bone165
+    400106: biped_bone166
+    400108: biped_bone168
+    400110: biped_bone169
+    400112: biped_bone17
+    400114: biped_bone170
+    400116: biped_bone171
+    400118: biped_bone172
+    400120: biped_bone173
+    400122: biped_bone174
+    400124: biped_bone177
+    400126: biped_bone178
+    400128: biped_bone179
+    400130: biped_bone18
+    400132: biped_bone181
+    400134: biped_bone182
+    400136: biped_bone183
+    400138: biped_bone185
+    400140: biped_bone187
+    400142: biped_bone189
+    400144: biped_bone191
+    400146: biped_bone193
+    400148: biped_bone195
+    400150: biped_bone196
+    400152: biped_bone197
+    400154: biped_bone20
+    400156: biped_bone21
+    400158: biped_bone23
+    400160: biped_bone24
+    400162: biped_bone27
+    400164: biped_bone28
+    400166: biped_bone30
+    400168: biped_bone31
+    400170: biped_bone33
+    400172: biped_bone34
+    400174: biped_bone36
+    400176: biped_bone37
+    400178: biped_bone39
+    400180: biped_bone40
+    400182: biped_bone47
+    400184: biped_bone51
+    400186: biped_bone53
+    400188: biped_bone55
+    400190: biped_bone56
+    400192: biped_bone58
+    400194: biped_bone59
+    400196: biped_bone61
+    400198: biped_bone62
+    400200: biped_bone64
+    400202: biped_bone65
+    400204: biped_bone67
+    400206: biped_bone68
+    400208: biped_bone70
+    400210: biped_bone71
+    400212: biped_bone73
+    400214: biped_bone74
+    400216: biped_bone75
+    400218: biped_bone77
+    400220: biped_bone78
+    400222: biped_bone80
+    400224: biped_bone81
+    400226: biped_bone83
+    400228: biped_bone84
+    400230: biped_bone86
+    400232: biped_bone87
+    400234: biped_bone89
+    400236: biped_bone90
+    400238: //RootNode
+    2100000: lambert1
+    2100002: Standard_7
+    2300000: biped
+    3300000: biped
+    4300000: biped
+    4300002: a1_1
+    4300004: a1_2
+    7400000: SkiddingIdle
+    9500000: //RootNode
+    13700000: a1_1
+    13700002: a1_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SkiddingIdle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

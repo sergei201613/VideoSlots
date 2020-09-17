@@ -1,0 +1,14 @@
+a1
+a2
+a3
+a4
+a5
+avatar
+BONUS-1
+BONUS-2
+BONUS-3
+FX
+OTHER
+SCATTER
+SOUNDS
+WILD

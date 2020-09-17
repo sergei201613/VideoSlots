@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "832306586716",
+    "firebase_url": "https://video-slots-machine.firebaseio.com",
+    "project_id": "video-slots-machine",
+    "storage_bucket": "video-slots-machine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832306586716:android:2ad137533d03b36b0eb299",
+        "android_client_info": {
+          "package_name": "com.videogirlslotter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832306586716-8h6a6d69ic0l7h0qevohr176lpdd8vd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrm-MdDpNtDhE3iYb3sGi2mx4NshqqnFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832306586716-8h6a6d69ic0l7h0qevohr176lpdd8vd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
